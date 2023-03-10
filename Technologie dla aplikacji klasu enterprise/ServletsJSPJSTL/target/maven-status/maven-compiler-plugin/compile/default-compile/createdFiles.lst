@@ -1,0 +1,6 @@
+com\mycompany\ServletsJSPJSTL\JakartaRestConfiguration.class
+com\mycompany\ServletsJSPJSTL\resources\JakartaEE91Resource.class
+ai\servlets\ControllerServlet.class
+ai\servlets\HelloWorldServlet.class
+ai\beans\ColorBean.class
+ai\servlets\HttpSessionServlet.class
