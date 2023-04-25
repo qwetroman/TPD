@@ -1,0 +1,11 @@
+com\mycompany\Complaints\JakartaRestConfiguration.class
+services\ComplaintService$1.class
+data\EntityManagerProducer.class
+services\ModelMapperProducer.class
+resources\ComplaintResource.class
+dto\ComplaintDTO.class
+resources\ApplicationConfig.class
+services\ComplaintService.class
+com\mycompany\Complaints\resources\JakartaEE10Resource.class
+data\ComplaintRepository.class
+entities\Complaint.class
